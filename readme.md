@@ -23,3 +23,13 @@
 | Move to previous window.                                  | `<Ctr-b>p`                            |
 | Jump to numbered window.                                  | `<Ctr-b>{number}`                     |
 | GUI windows.                                              | `<Ctr-b>w`                     |
+
+### Panes
+
+| Description                                               | Command                               |
+| ----------------------------------------------------------|:--------------------------------------|
+| Create a vertical pane.                                   | `<Ctrl-b>%`                           |
+| Create a horizontal pane.                                 | `<Ctrl-b>"`                           |
+| Cycle through the panes.                                  | `<Ctrl-b>o`                           |
+| Cycle through pane layouts.                               | `<Ctrl-b><space>`                     |
+| Force kill a pane.                                        | `<Ctrl-b>x`                           |
