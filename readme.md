@@ -1,6 +1,8 @@
-### Ongoing habits
+### Building Habits
 
-| Command                       | Info                                      | Usage                                             |
-| -------------------------     |:-----------------------------------------:|---------------------------------------------------|
-| `tmux new -s basic`           | Created a session named 'basic'.          | Create multiple sessions: text editor, web text browser, db access, etc. |
+| Command                       | Info                                      | 
+| -------------------------     |:-----------------------------------------:|
+| `tmux new -s basic`           | Created a session named 'basic'.          |
+| `<Ctrl-b>{command}`           | Execute command in tmux. E.g. `<Ctrl-b>t` |
+| `<Ctrl-b>d`                   | Detach from session                       |
 
