@@ -33,3 +33,4 @@
 | Cycle through the panes.                                  | `<Ctrl-b>o`                           |
 | Cycle through pane layouts.                               | `<Ctrl-b><space>`                     |
 | Force kill a pane.                                        | `<Ctrl-b>x`                           |
+| Swap panes                                                | `<Ctrl-b>}`                           |
