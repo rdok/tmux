@@ -34,3 +34,4 @@
 | Cycle through pane layouts.                               | `<Ctrl-b><space>`                     |
 | Force kill a pane.                                        | `<Ctrl-b>x`                           |
 | Swap panes                                                | `<Ctrl-b>}`                           |
+| Modify pane height/width                                  | `<Ctrl-b><Alt-{arrow: ← → ↑ ↓ }>`     |
