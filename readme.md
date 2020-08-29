@@ -35,3 +35,5 @@
 | Force kill a pane.                                        | `<Ctrl-b>x`                           |
 | Swap panes                                                | `<Ctrl-b>}`                           |
 | Modify pane height/width                                  | `<Ctrl-b><Alt-{arrow: ← → ↑ ↓ }>`     |
+| Enable pane title (top border)                            | `tmux set pane-border-status top`     |
+| Set pane title as basename                                | `tmux set -g pane-border-format "#P: #{b:pane_current_path}"` |
